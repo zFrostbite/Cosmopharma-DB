@@ -29,7 +29,7 @@ li { margin-left: 2em; }
 /* setup headings */
 h1, h2, h3, h4, h5, h6 {
     line-height: 1;
-    font-family: Tahoma, Verdana, sans-serif;
+    font-family: Verdana, Tahoma, sans-serif;
     font-weight: bold;
 }
 
