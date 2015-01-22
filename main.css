@@ -18,8 +18,8 @@ footer, header, hgroup, menu, nav, output, section, summary, audio, video {
 /* setup body */
 body, p {
     line-height: 1;
-    font-family: Georgia, serif;
-    font-size: 16pt;
+    font-family: Calibri, serif;
+    font-size: 12pt;
 }
 
 /* reasonable starting margins */
@@ -29,7 +29,7 @@ li { margin-left: 2em; }
 /* setup headings */
 h1, h2, h3, h4, h5, h6 {
     line-height: 1;
-    font-family: Verdana, Tahoma, sans-serif;
+    font-family: Tahoma, Verdana, sans-serif;
     font-weight: bold;
 }
 
