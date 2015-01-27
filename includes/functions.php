@@ -9,7 +9,7 @@
 		if(mysqli_connect_errno()){
 			die("Database connection FAILED");
 		}
-	}
+	} 
 	function make_db_for_user($name)
 	{
 		global $connection;

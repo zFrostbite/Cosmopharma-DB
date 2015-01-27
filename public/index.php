@@ -7,6 +7,6 @@
 		<title>Min Cosmopharma Vareliste</title>
 	</head>
 	<body>
-	
+	 
 	</body>
 </html>
