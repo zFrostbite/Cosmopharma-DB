@@ -19,7 +19,7 @@ a { color: #8D0D19; }
 a:hover { color: #1A446C; }
 	
 #header { 
-	height: 70px; 
+	height: 100px; 
 	margin: 0; padding: 0; text-align: left; 
   background: #1A446C; color: #D4E6F4;
 }
@@ -39,7 +39,7 @@ a:hover { color: #1A446C; }
 /* Navigation */
 #navigation { 
 	float: left;
-	width: 150px; height: 100%; 
+	width: 150px; height: 50%; 
 	margin: 0; padding: 0 2em; 
 	color: #D4E6F4; background: #8D0D19;
 }
