@@ -1,0 +1,56 @@
+/* Main background color */
+body {background-color: #8fd3ab}
+
+/* Header/Border */
+header {
+	margin: 0;
+	padding: 0;
+	background-color: #48b775;
+}
+
+header img{
+	display: block;
+	margin: auto;
+}
+
+/* Navigation */
+nav#topnav {
+	width: 100%;
+	height: 35px;
+	background-color: #48b775;
+	margin: 0;
+	padding: 0;
+}
+
+nav#topnav ul{
+	display: block;
+	list-style-type: none;
+	width: 700px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+nav#topnav ul li{
+	margin: 0;
+	padding: 0;
+}
+
+nav#topnav ul li a{
+	display: block;
+	float: left;
+	max-height: 25px;
+	width: 116.67px;
+	margin: 0;
+	padding: 5px 0;
+	font-family: tahoma, sans-serif;
+	font-size: 20px;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+}
+
+nav#topnav ul li a:hover{
+	text-decoration: underline;
+}
+
+/* Main Section */
